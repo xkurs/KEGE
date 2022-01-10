@@ -1,4 +1,4 @@
-# [ЕГЭ по информатике на сайте Полякова: генератор вариантов](https://kpolyakov.spb.ru/school/ege/generate.htm)
+# [ЕГЭ по информатике на сайте Полякова](https://kpolyakov.spb.ru/school/ege/generate.htm)
 
 ![KEGE](img/banner-g0deb275a4_1920.jpg "KEGE")
 
