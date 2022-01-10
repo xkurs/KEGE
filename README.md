@@ -4,5 +4,5 @@
 
 ### Задачи, входящие в "Материалы для подготовки к ЕГЭ-2022 по информатике"
 
-- #### [Разбор заданий КЕГЭ](https://github.com/xkurs/KEGE/)
-- #### [Демонстрационная версия ЕГЭ—2021](https://nbviewer.org/github/xkurs/KEGE/blob/master/KEGE2021/KEGE2021.ipynb)
+- ### [Разбор заданий КЕГЭ](https://github.com/xkurs/KEGE/)
+- ### [Демонстрационная версия ЕГЭ—2021](https://nbviewer.org/github/xkurs/KEGE/blob/master/KEGE2021/KEGE2021.ipynb)
