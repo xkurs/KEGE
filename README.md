@@ -2,7 +2,7 @@
 
 ## Подготовка к ЕГЭ по информатике
 
-![KEGE](img/banner-g0deb275a4_1920.jpg "KEGE")
+![KEGE](img/time-g28ecd4d16_1920-1024x410.jpg "KEGE")
 
 ## [Материалы для подготовки к ЕГЭ по информатике](https://github.com/xkurs/KEGE/)
 
