@@ -1,6 +1,8 @@
-![KEGE](img/banner-g0deb275a4_1920.jpg "KEGE")
+# [xkurs.github.io](https://xkurs.github.io/)  
 
-# Подготовка к ЕГЭ по информатике
+## Подготовка к ЕГЭ по информатике
+
+![KEGE](img/banner-g0deb275a4_1920.jpg "KEGE")
 
 ## [Материалы для подготовки к ЕГЭ по информатике](https://github.com/xkurs/KEGE/)
 
