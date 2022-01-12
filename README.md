@@ -1,6 +1,6 @@
-# [xkurs.github.io](https://xkurs.github.io/)  
+# Подготовка к ЕГЭ по информатике
 
-## Подготовка к ЕГЭ по информатике
+## [xkurs.github.io](https://xkurs.github.io/)  
 
 ![KEGE](img/time-g28ecd4d16_1920-1024x410.jpg "KEGE")
 
