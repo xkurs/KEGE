@@ -6,8 +6,6 @@
 
 ## [Демонстрационная версия ЕГЭ—2021](https://nbviewer.org/github/xkurs/KEGE/blob/master/KEGE2021/KEGE2021.ipynb)
 
-## [xkurs.github.io](https://xkurs.github.io/)  
+## [Сайт Полякова: генератор вариантов ЕГЭ](https://kpolyakov.spb.ru/school/ege/generate.htm)
 
-## [Генератор вариантов ЕГЭ](https://kpolyakov.spb.ru/school/ege/generate.htm)
-
-Сайт Полякова
+## [xkurs.github.io](https://xkurs.github.io/)
